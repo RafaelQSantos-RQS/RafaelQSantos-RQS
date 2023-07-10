@@ -1,6 +1,6 @@
 ### Olá! Me chamo Rafael Queiroz
 
-- 🔭 Hoje trabalho com Processos ETL
+- 🔭 Hoje trabalho com Processos ETL, usando python e sql
 - 🌱 Estou estudando python, jupyter e java
 - 📫 Contate-me no email: rafaelqsantos33@gmail.com
 - 😄 Pronouns: ele/dele
