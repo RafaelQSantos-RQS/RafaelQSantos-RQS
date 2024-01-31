@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Sou técnico especializado II em dados na empresa SENAI Cimatec, onde sou responsável por desenvolver soluções de RPA e ETL para tirar Insights poderesos.](Sou técnico especializado II em dados na empresa SENAI Cimatec, onde sou responsável por desenvolver soluções de RPA e ETL para tirar Insights poderesos.)
 
-- ⚡ Fun fact **Eu amo trabalhar com python, mas sou um ensusiasta louco por java.**
+- ⚡ Fun fact **Eu amo trabalhar com python, mas sou apaixonado por java.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
