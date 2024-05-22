@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafael Queiroz Santos</h1>
 <h3 align="center">Sou um apaixonado desenvolvedor especializado na área de dados, dedicado a criar soluções inovadoras. Minha expertise abrange o desenvolvimento de automação de processos robóticos (RPA) utilizando Python, além de soluções robustas para Extração, Transformação e Carga (ETL) de dados. Com habilidades sólidas em machine learning, estou sempre buscando maneiras criativas de transformar dados em insights valiosos. Seja otimizando processos com RPA, organizando dados com ETL ou explorando o potencial do machine learning, estou comprometido em impulsionar a excelência em projetos data-driven.</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Data Visualization, RPA e Linux.**
+- 🌱 I’m currently learning **Data Engineering, Apache Airflow, AirByte, Python, Scala, Data Visualization, RPA e Linux.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RafaelQSantos-RQS](https://github.com/RafaelQSantos-RQS)
 
-- 💬 Ask me about **Python, Machine Learning, Data Visualization, WebScrapping, Data Mining e muito mais fiquem a vontade.**
+- 💬 Ask me about **Python, Data Engineering, Data Visualization, Data Mining e muito mais fiquem a vontade.**
 
 - 📫 How to reach me **rafaelqsantos33@gmail.com**
 
