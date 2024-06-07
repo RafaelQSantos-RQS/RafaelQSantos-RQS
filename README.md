@@ -8,7 +8,7 @@
 - 💬 Ask me about **Python, Data Engineering, Data Visualization, Data Mining e muito mais fiquem a vontade.**
 
 - 📫 How to reach me **rafaelqsantos33@gmail.com**
-- 
+  
 - ⚡ Fun fact **Eu amo trabalhar com python, mas sou apaixonado por java.**
 
 <h3 align="left">Connect with me:</h3>
