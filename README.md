@@ -7,7 +7,7 @@
 ###
 
 ## Sobre mim
-Sou desenvolvedor com foco em **Data Engineering e DataOps**, atuando no desenvolvimento de pipelines de dados (ETL), automação (RPA) e projetos de ML.  
+Sou desenvolvedor com foco em **Data Engineering e DataOps**, atuando no desenvolvimento de pipelines de dados (ETL), automação (RPA) e projetos de DataOps.  
 Atualmente, estou aprofundando meus conhecimentos em **Airflow, AirByte, Docker e Kubernetes**, com ênfase em infraestrutura de dados escalável e observabilidade.
 
 ## ⚡ Tech em evolução
