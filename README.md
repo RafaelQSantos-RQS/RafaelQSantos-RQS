@@ -69,4 +69,4 @@ Explore meus projetos pinados — soluções de ETL, automações e DataOps apli
 
 ###
 
-![snake animation](https://github.com/RafaelQSantos-RQS/RafaelQSantos-RQS/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/RafaelQSantos-RQS/RafaelQSantos-RQS/output/snake.svg" alt="Snake animation" />
