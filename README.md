@@ -69,4 +69,9 @@ Explore meus projetos pinados — soluções de ETL, automações e DataOps apli
 
 ###
 
-<img src="https://raw.githubusercontent.com/RafaelQSantos-RQS/RafaelQSantos-RQS/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelQSantos-RQS/RafaelQSantos-RQS/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelQSantos-RQS/RafaelQSantos-RQS/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/RafaelQSantos-RQS/RafaelQSantos-RQS/output/snake.svg" />
+</picture>
+
