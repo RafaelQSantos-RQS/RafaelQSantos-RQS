@@ -7,24 +7,24 @@
 ###
 
 ## Sobre mim
-Sou desenvolvedor com foco em **Data Engineering e DataOps**, com experiência em pipelines de ETL, automação (RPA) e ML.  
-Atualmente me aprimorando em **Airflow, AirByte, Docker e infraestrutura de produção escalável**.
+Sou desenvolvedor com foco em **Data Engineering e DataOps**, atuando no desenvolvimento de pipelines de dados (ETL), automação (RPA) e projetos de ML.  
+Atualmente, estou aprofundando meus conhecimentos em **Airflow, AirByte, Docker e Kubernetes**, com ênfase em infraestrutura de dados escalável e observabilidade.
 
-## Atualmente aprendendo
+## ⚡ Tech em evolução
 - Orquestração de dados: **Airflow**, **AirByte**  
-- Conteinerização e deployment: **Docker**, **observabilidade com Grafana**
+- Deploy e infraestrutura: **Docker**, **Kubernetes**, **Grafana**
 
-## Destaques no GitHub
-Veja meus projetos pinados — pipelines eficientes, automações e ETL especialistas em dados.
+## 🚀 Destaques no GitHub
+Explore meus projetos pinados — soluções de ETL, automações e DataOps aplicados a cenários reais.
 
-## Me pergunte sobre...
+## 💬 Me pergunte sobre...
 **Python, pipelines de dados, RPA, visualização de dados, DevOps**
 
-## Contato
-rafoelqsantos33@gmail.com
+## 📫 Contato
+**rafaelqsantos33@gmail.com**
 
 ### Fun fact
-> Sou fã de Python, mas meu coração bate por Java. :heart:
+> Sou fã de Python, mas meu coração bate por Java. ❤️
 
 ###
 
@@ -61,25 +61,12 @@ rafoelqsantos33@gmail.com
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/rafael-queiroz-santos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/rafael-queiroz-santos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
 </div>
 
 ###
 
-###
-
-<img src="https://raw.githubusercontent.com/RafaelQsantos-RQS/RafaelQsantos-RQS/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelQsantos-RQS/RafaelQsantos-RQS/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelQsantos-RQS/RafaelQsantos-RQS/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RafaelQsantos-RQS/RafaelQsantos-RQS/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+![snake animation](https://github.com/RafaelQSantos-RQS/RafaelQSantos-RQS/blob/output/github-contribution-grid-snake2.svg)
